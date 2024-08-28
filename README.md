@@ -1,5 +1,6 @@
 # Apple-Macintosh-Plus-128k-512k-grill-vent-replacement
 Replace a broken top grill on your compact Mac 
+
 ![Mac Plus grill](https://github.com/user-attachments/assets/63095400-26b9-411f-b711-a0e9f297e45f)
 
 Instructions:
