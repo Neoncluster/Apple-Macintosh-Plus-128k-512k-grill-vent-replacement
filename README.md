@@ -2,7 +2,7 @@
 Replace a broken top grill on your compact Mac 
 ![Mac Plus grill](https://github.com/user-attachments/assets/63095400-26b9-411f-b711-a0e9f297e45f)
 
-Instructions.
+Instructions:
 
   100% fill.
   No supports were needed on my Creality 3 SE budget printer.
