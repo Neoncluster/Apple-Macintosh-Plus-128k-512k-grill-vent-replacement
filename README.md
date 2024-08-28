@@ -5,7 +5,7 @@ Replace a broken top grill on your compact Mac
 Instructions:
   
   100% fill.
-  No supports were needed on my Creality 3 SE budget printer.
+  No supports were needed on my Ender-3 V3 SE budget printer.
   Print with the top (outside facing) part the grill face-down on the printer bed.
   I used eSun PLA+ bone white colour filament for the final print.
 
